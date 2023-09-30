@@ -1,0 +1,8 @@
+.style{
+    background: yellow;
+}
+.card{
+    border: 2px solid black;
+    margin: 5px ;
+    border-radius: 30px;
+}
